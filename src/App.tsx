@@ -1,10 +1,10 @@
-
+import { AllProducts } from "./components/all-products"
 
 function App() {
 
   return (
-    <div className="text-indigo-500 text-6xl" >
-      Hello there
+    <div className="" >
+      <AllProducts />
     </div>
   )
 }
